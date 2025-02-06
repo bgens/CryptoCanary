@@ -15,7 +15,7 @@ This project does not store or process real mining data – it is purely a canar
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/CryptoCanary.git
+git clone https://github.com/bgens/CryptoCanary.git
 cd CryptoCanary
 ```
 
