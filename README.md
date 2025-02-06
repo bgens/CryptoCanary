@@ -123,15 +123,6 @@ sudo systemctl enable honeypot
 - Ensure you are using the correct honeypot credentials.
 - Check `/opt/honeypot/honeypot.log` for any errors.
 
-## Roadmap & Future Features
-- Log Viewer UI – Web-based dashboard to view logs.
-- GeoIP Tracking – Detect and log attacker locations.
-- Fail2Ban Integration – Auto-ban repeated attackers.
-
 ## License
 This project is released under the MIT License – free to use, modify, and distribute.
-
-## Author
-CryptoCanary was built as a security honeypot for monitoring credential leaks.  
-Feel free to contribute or report issues in the GitHub Issues tab.
 
